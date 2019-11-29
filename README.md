@@ -1,4 +1,7 @@
 # ContoCorrente
+
+Descrizione esercizio ContoBancario.
+
 Abbiamo fatto un progetto su netbeans che trattava un conto corrente, creando 3 classi ContoBancario, ContoEsteso, TestContoBancario.
 Con la forma di ereditarietà si tratta che le sottoclassi possono ereditare tutti i metodi della superclasse.
 Nel test bancario abbiamo fatto le prove per vedere se l'esercizio è corretto, per la stampa utilizzato il System.out.println, sul conto bancario messo un costruttore e dei get che danno il valore e te li da in output.
